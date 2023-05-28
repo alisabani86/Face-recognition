@@ -1,0 +1,33 @@
+              precision    recall  f1-score   support
+
+       Aaron       1.00      1.00      1.00         1
+      Andrew       1.00      1.00      1.00         1
+    Benjamin       1.00      1.00      1.00         1
+     Brandon       1.00      1.00      1.00         1
+       Brian       1.00      1.00      1.00         1
+ Christopher       1.00      1.00      1.00         1
+      Daniel       1.00      1.00      1.00         1
+       David       1.00      1.00      1.00         1
+        Eric       1.00      1.00      1.00         1
+       Ethan       1.00      1.00      1.00         1
+       James       1.00      1.00      1.00         1
+       Jason       1.00      1.00      1.00         1
+        John       1.00      1.00      1.00         1
+    Jonathan       1.00      1.00      1.00         1
+      Joseph       1.00      1.00      1.00         1
+      Joshua       1.00      1.00      1.00         1
+      Justin       1.00      1.00      1.00         1
+       Kevin       1.00      1.00      1.00         1
+     Matthew       1.00      1.00      1.00         1
+     Michael       1.00      1.00      1.00         1
+      Nathan       1.00      1.00      1.00         1
+        Ryan       1.00      1.00      1.00         1
+      Samuel       1.00      1.00      1.00         1
+       Tyler       1.00      1.00      1.00         1
+     William       1.00      1.00      1.00         1
+
+    accuracy                           1.00        25
+   macro avg       1.00      1.00      1.00        25
+weighted avg       1.00      1.00      1.00        25
+
+
